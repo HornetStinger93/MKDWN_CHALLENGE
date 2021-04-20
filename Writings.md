@@ -8,7 +8,8 @@ This is from my Social Theories class last semester
 ![BBQ](/download.jpg) ![GAS](https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2015/02/thumb_720_450_1402_f.jpg)
 
 
-
+>They may get married but I believe they will get a divorce at some point. With the didactic withdrawal and also passionate as opposed to consummate love this will not last in the long run of life. 
+>
 
 
 
