@@ -10,7 +10,7 @@ This is from my Social Theories class last semester
 ### Here is *another one*
 >They may get married but I believe they will get a divorce at some point. With the didactic withdrawal and also passionate as opposed to consummate love this will not last in the long run of life. 
 >
-![Didact](https://static.wikia.nocookie.net/halo/images/7/71/H4_Render_ShadowOfSunderedStar-Profile.png/revision/latest?cb=20171221222606)
+![Didact](https://static.wikia.nocookie.net/halo/images/7/71/H4_Render_ShadowOfSunderedStar-Profile.png/revision/latest?cb=20171221222606 =250x)
 
 
 
