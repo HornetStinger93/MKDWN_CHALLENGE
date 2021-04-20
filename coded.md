@@ -1,4 +1,5 @@
 # In this place I will place some code I have done for IT1040
+This code gathered information from the gradebook and then calculated the average grade of each student and of each assignment.
 
 ```
 
