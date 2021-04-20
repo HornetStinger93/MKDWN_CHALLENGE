@@ -1,7 +1,7 @@
 # In this place I will place some code I have done for IT1040
 
 ```
-{
+
     # gradebook.py
 
     # Display the average of each student's grade.
@@ -304,6 +304,6 @@
     print("Student10:" + str("{:.2f}".format(student10average)))
     print()
     input("Press ENTER when finished viewing")
-}
+
 ```
 
