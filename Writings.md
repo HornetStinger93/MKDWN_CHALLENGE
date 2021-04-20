@@ -38,6 +38,8 @@ This is from my Social Theories class last semester
 
 
 
+
+
 ### Want to leave this page (I don't blame ya) use the links below to leave
 
 - [readme](/README.md)
