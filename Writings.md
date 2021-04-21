@@ -45,5 +45,5 @@ This is from my Social Theories class last semester
 ### Want to leave this page (I don't blame ya) use the links below to leave
 
 - [Home](/README.md)
-- [code](/coded.md)
+- [Code](/coded.md)
 - [Supertramp](supertramp.md)
